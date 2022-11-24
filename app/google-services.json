@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "507839254692",
+    "project_id": "kino-a6d17",
+    "storage_bucket": "kino-a6d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507839254692:android:ee73e1bdaeaa02128c1631",
+        "android_client_info": {
+          "package_name": "com.company.kokoiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507839254692-kgp3t8gmkbj21fms9lq8ripstnkpuhci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.kokoiti",
+            "certificate_hash": "fe4e9bc1c7296759fc9245eed3eb89e82f4db492"
+          }
+        },
+        {
+          "client_id": "507839254692-gar0h9fuk0393qmudm2h7bocpimog1e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqq5bgDKQggEzuvCHoOUmiSJw5PnV9t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507839254692-gar0h9fuk0393qmudm2h7bocpimog1e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
